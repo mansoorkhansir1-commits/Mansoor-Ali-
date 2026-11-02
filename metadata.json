@@ -1,0 +1,6 @@
+{
+  "name": "LogoCraft AI",
+  "description": "AI-powered logo maker generating professional vector concepts, monograms, brand identities, and real-world mockups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
